@@ -7,16 +7,16 @@
   <string name="save">संरक्षित करें</string>
   <string name="note_to_self">स्वयं को लिखें</string>
   <!--AbstractNotificationBuilder-->
-  <string name="AbstractNotificationBuilder_new_message">नया Signal मेसेज</string>
+  <string name="AbstractNotificationBuilder_new_message">नया Signal संदेश</string>
   <!--AlbumThumbnailView-->
   <!--ApplicationMigrationActivity-->
-  <string name="ApplicationMigrationActivity__signal_is_updating">Signal का अद्यतन हो रहा है…</string>
+  <string name="ApplicationMigrationActivity__signal_is_updating">Signal अपडेट हो रहा है…</string>
   <!--ApplicationPreferencesActivity-->
-  <string name="ApplicationPreferencesActivity_currently_s">अभी: %s</string>
+  <string name="ApplicationPreferencesActivity_currently_s">वर्तमान में: %s</string>
   <string name="ApplicationPreferenceActivity_you_havent_set_a_passphrase_yet">आपने अभी तक पासफ़्रेज सेट नहीं किया है!</string>
   <plurals name="ApplicationPreferencesActivity_messages_per_conversation">
-    <item quantity="one">%d संवाद प्रति मेसेज</item>
-    <item quantity="other">%d संवाद प्रति मेसेज</item>
+    <item quantity="one">%d संवाद प्रति संदेश</item>
+    <item quantity="other">%d संवाद प्रति संदेश</item>
   </plurals>
   <string name="ApplicationPreferencesActivity_delete_all_old_messages_now">सभी पुरानी मेसेज अभी हटाए?</string>
   <plurals name="ApplicationPreferencesActivity_this_will_immediately_trim_all_conversations_to_the_d_most_recent_messages">
@@ -25,12 +25,12 @@
   </plurals>
   <string name="ApplicationPreferencesActivity_delete">हटाए </string>
   <string name="ApplicationPreferencesActivity_disable_passphrase">पासफ़्रेज़ अक्षम करें?</string>
-  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">यह Signal और मेसेज नोटिफिकेशन को स्थायी रूप से अनलॉक करेगा</string>
+  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">यह Signal और संदेश नोटिफिकेशन को स्थायी रूप से अनलॉक करेगा</string>
   <string name="ApplicationPreferencesActivity_disable">अक्षम</string>
   <string name="ApplicationPreferencesActivity_unregistering">पंजीकरण रद्द करना</string>
-  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Signal मेसेज और कॉल से अपंजीकृत करना</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Signal मेसेज और कॉल अक्षम करें?</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">सर्वर से अपंजीकृत करके Signal मेसेजों और कॉलों को अक्षम करें। आपको भविष्य में फिर से उनका उपयोग करने के लिए अपना फोन नंबर फिर से पंजीकृत करना होगा</string>
+  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Signal संदेश और कॉल से अपंजीकृत करना</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Signal संदेश और कॉल अक्षम करें?</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">सर्वर से अपंजीकृत करके Signal संदेश और कॉलों को अक्षम करें। आपको भविष्य में फिर से उनका उपयोग करने के लिए अपना फोन नंबर फिर से पंजीकृत करना होगा</string>
   <string name="ApplicationPreferencesActivity_error_connecting_to_server">सर्वर से कनेक्ट करने में त्रुटि!</string>
   <string name="ApplicationPreferencesActivity_sms_enabled">SMS सक्षम</string>
   <string name="ApplicationPreferencesActivity_touch_to_change_your_default_sms_app">अपना डिफ़ॉल्ट SMS ऐप बदलने के लिए स्पर्श करें</string>
@@ -69,17 +69,17 @@
   <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">किसी स्थान को संलग्न करने के लिए Signal को स्थान अनुमति की आवश्यकता होती है, लेकिन इसे स्थायी रूप से अस्वीकार कर दिया गया है। कृपया ऐप सेटिंग्स मेनू पर जारी रखें, \"अनुमतियां\" चुनें, और \"स्थान\" सक्षम करें।</string>
   <string name="AttachmentManager_signal_requires_the_camera_permission_in_order_to_take_photos_but_it_has_been_permanently_denied">Signal को फ़ोटो लेने के लिए कैमरा अनुमति की आवश्यकता होती है, लेकिन इसे स्थायी रूप से अस्वीकार कर दिया गया है। कृपया ऐप सेटिंग्स मेनू पर जारी रखें, \"अनुमतियां\" चुनें, और \"कैमरा\" सक्षम करें।</string>
   <!--AttachmentUploadJob-->
-  <string name="AttachmentUploadJob_uploading_media">मीडिया अपलोड कर रहा है…</string>
-  <string name="AttachmentUploadJob_compressing_video_start">वीडियो को कंप्रेस कर रहा है…</string>
+  <string name="AttachmentUploadJob_uploading_media">मीडिया अपलोड हो राह है…</string>
+  <string name="AttachmentUploadJob_compressing_video_start">वीडियो कंप्रेस हो राह है…</string>
   <!--AudioSlidePlayer-->
   <string name="AudioSlidePlayer_error_playing_audio">ऑडियो बजाने में त्रुटि!</string>
   <!--BlockedContactsActivity-->
   <!-- Removed by excludeNonTranslatables <string name="BlockedContactsActivity_blocked_contacts">ब्लॉक किये हुए संपर्क</string> -->
   <!--BlockUnblockDialog-->
-  <string name="BlockUnblockDialog_group_members_will_be_able_to_add_you">ग्रूप के सदस्य आपको इस ग्रूप में फ़िर शामिल कर पाएँगे।</string>
+  <string name="BlockUnblockDialog_group_members_will_be_able_to_add_you">ग्रूप के सदस्य आपको ग्रूप में जोड़ने में सक्षम होंगे।</string>
   <string name="BlockUnblockDialog_unblock">अनब्लॉक करें</string>
   <string name="BlockUnblockDialog_block">ब्लॉक</string>
-  <string name="BlockUnblockDialog_block_and_delete">ब्लाॅक करें अथवा हटा दें</string>
+  <string name="BlockUnblockDialog_block_and_delete">ब्लॉक करें और हटाएं!</string>
   <!--BucketedThreadMedia-->
   <string name="BucketedThreadMedia_Today">आज</string>
   <string name="BucketedThreadMedia_Yesterday">कल</string>
@@ -91,10 +91,10 @@
   <!--CallScreen-->
   <string name="CallScreen_Incoming_call">आने वाली कॉल</string>
   <!--CameraActivity-->
-  <string name="CameraActivity_image_save_failure">तस्वीर सेव करने में विफल रहा</string>
+  <string name="CameraActivity_image_save_failure">तस्वीर सहेजने में विफल!</string>
   <!--CameraXFragment-->
-  <string name="CameraXFragment_tap_for_photo_hold_for_video">फोटो के लिए टैप, वीडियो के लिए दबाए रखें</string>
-  <string name="CameraXFragment_capture_description">कैप्चर</string>
+  <string name="CameraXFragment_tap_for_photo_hold_for_video">फोटो के लिए एक बार दबाओ, वीडियो के लिए दबाए रखें</string>
+  <string name="CameraXFragment_capture_description">फोटो खींचें</string>
   <string name="CameraXFragment_change_camera_description">कैमरा बदलें</string>
   <string name="CameraXFragment_open_gallery_description">गैलरी खोलें</string>
   <!--CameraContacts-->
